@@ -1,0 +1,1492 @@
+.final-google-ads {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.final-google-ads .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 4893px;
+  position: relative;
+  width: 1920px;
+}
+
+.final-google-ads .overlap {
+  height: 1251px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.final-google-ads .rectangle {
+  background-color: #051c45;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.final-google-ads .ingelt-white {
+  height: 91px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 100px;
+}
+
+.final-google-ads .element {
+  -webkit-backdrop-filter: blur(50px) brightness(100%);
+  backdrop-filter: blur(50px) brightness(100%);
+  background-color: #0d1948;
+  border-radius: 40px;
+  box-shadow: 0px 4px 60px #0d194870;
+  height: 240px;
+  left: 1301px;
+  overflow: hidden;
+  position: absolute;
+  top: 1011px;
+  width: 471px;
+}
+
+.final-google-ads .overlap-group {
+  height: 432px;
+  left: 39px;
+  position: relative;
+  top: -226px;
+  width: 634px;
+}
+
+.final-google-ads .circle {
+  border: 1px solid;
+  border-color: #f7f7f81a;
+  border-radius: 9999px;
+  height: 432px;
+  left: 202px;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.final-google-ads .overlap-group-2 {
+  border: 1px solid;
+  border-color: #f7f7f81a;
+  border-radius: 9999px;
+  height: 337px;
+  left: 48px;
+  position: relative;
+  top: 48px;
+  width: 337px;
+}
+
+.final-google-ads .span-absolute {
+  border: 1px solid;
+  border-color: #f7f7f81a;
+  border-radius: 9999px;
+  height: 242px;
+  left: 47px;
+  position: absolute;
+  top: 47px;
+  width: 242px;
+}
+
+.final-google-ads .span-absolute-2 {
+  border: 1px solid;
+  border-color: #f7f7f81a;
+  border-radius: 9999px;
+  height: 147px;
+  left: 94px;
+  position: absolute;
+  top: 94px;
+  width: 147px;
+}
+
+.final-google-ads .rectangle-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b3bcc7;
+  border-radius: 1000px;
+  height: 80px;
+  left: 157px;
+  position: absolute;
+  top: 263px;
+  width: 80px;
+}
+
+.final-google-ads .img {
+  height: 40px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 40px;
+}
+
+.final-google-ads .element-listed {
+  color: #ffffff99;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 403px;
+  white-space: nowrap;
+}
+
+.final-google-ads .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 48px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 358px;
+}
+
+.final-google-ads .rectangle-3 {
+  -webkit-backdrop-filter: blur(120px) brightness(100%);
+  backdrop-filter: blur(120px) brightness(100%);
+  background-color: #f0f0f033;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(255, 255, 255),
+      rgba(210.37, 210.37, 210.37, 0.4)
+    )
+    1;
+  border-radius: 24px;
+  height: 80px;
+  left: 1349px;
+  position: absolute;
+  top: 329px;
+  width: 78px;
+}
+
+.final-google-ads .group {
+  height: 1114px;
+  left: 1200px;
+  position: absolute;
+  top: 0;
+  width: 720px;
+}
+
+.final-google-ads .overlap-wrapper {
+  height: 525px;
+  left: 1103px;
+  position: absolute;
+  top: 268px;
+  width: 795px;
+}
+
+.final-google-ads .overlap-2 {
+  height: 525px;
+  position: relative;
+}
+
+.final-google-ads .ellipse {
+  background-color: #001e43;
+  border-radius: 237.63px;
+  height: 475px;
+  left: 194px;
+  position: absolute;
+  top: 50px;
+  width: 475px;
+}
+
+.final-google-ads .mask-group {
+  height: 525px;
+  left: 176px;
+  position: absolute;
+  top: 0;
+  width: 523px;
+}
+
+.final-google-ads .frame {
+  -webkit-backdrop-filter: blur(10.51px) brightness(100%);
+  backdrop-filter: blur(10.51px) brightness(100%);
+  background-color: #fffcfc99;
+  border-radius: 66px;
+  box-shadow: var(--shadows);
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 155px;
+  width: 306px;
+}
+
+.final-google-ads .frame-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8.41px;
+  left: 86px;
+  position: relative;
+  top: 28px;
+}
+
+.final-google-ads .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.21px;
+  justify-content: center;
+  position: relative;
+}
+
+.final-google-ads .text-wrapper-2 {
+  color: var(--gray-1);
+  font-family: "Inter", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 29.4px;
+  margin-top: -1.05px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-google-ads .frame-2 {
+  -webkit-backdrop-filter: blur(10.51px) brightness(100%);
+  backdrop-filter: blur(10.51px) brightness(100%);
+  background-color: #fffcfc99;
+  border-radius: 58px;
+  box-shadow: var(--shadows);
+  height: 86px;
+  left: 489px;
+  position: absolute;
+  top: 267px;
+  width: 306px;
+}
+
+.final-google-ads .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8.41px;
+  left: 100px;
+  position: absolute;
+  top: 28px;
+}
+
+.final-google-ads .ellipse-2 {
+  background-color: #00b574;
+  border-radius: 11.5px;
+  height: 23px;
+  left: 247px;
+  position: absolute;
+  top: -12px;
+  width: 23px;
+}
+
+.final-google-ads .frame-4 {
+  -webkit-backdrop-filter: blur(10.51px) brightness(100%);
+  backdrop-filter: blur(10.51px) brightness(100%);
+  background-color: #fffcfc99;
+  border-radius: 68px;
+  box-shadow: var(--shadows);
+  height: 86px;
+  left: 41px;
+  position: absolute;
+  top: 370px;
+  width: 306px;
+}
+
+.final-google-ads .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8.41px;
+  left: 40px;
+  position: absolute;
+  top: 28px;
+}
+
+.final-google-ads .ellipse-3 {
+  background-color: #b500e2;
+  border-radius: 11.5px;
+  height: 23px;
+  left: 233px;
+  position: absolute;
+  top: -12px;
+  width: 23px;
+}
+
+.final-google-ads .ellipse-4 {
+  background-color: #0400ca;
+  border-radius: 11.5px;
+  height: 23px;
+  left: 1155px;
+  position: absolute;
+  top: 412px;
+  width: 23px;
+}
+
+.final-google-ads .p {
+  color: #001e43;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 169px;
+  width: 734px;
+}
+
+.final-google-ads .get-access-to-IELTS {
+  color: #00000099;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 157px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: 305px;
+  width: 670px;
+}
+
+.final-google-ads .overlap-group-wrapper {
+  -webkit-backdrop-filter: blur(50px) brightness(100%);
+  backdrop-filter: blur(50px) brightness(100%);
+  background-color: #0d1948;
+  border-radius: 40px;
+  box-shadow: 0px 4px 60px #0d194870;
+  height: 240px;
+  left: 150px;
+  overflow: hidden;
+  position: absolute;
+  top: 1011px;
+  width: 471px;
+}
+
+.final-google-ads .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 57px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 358px;
+}
+
+.final-google-ads .element-2 {
+  -webkit-backdrop-filter: blur(50px) brightness(100%);
+  backdrop-filter: blur(50px) brightness(100%);
+  background-color: #0d1948;
+  border-radius: 40px;
+  box-shadow: 0px 4px 60px #0d194870;
+  height: 240px;
+  left: 724px;
+  overflow: hidden;
+  position: absolute;
+  top: 1011px;
+  width: 471px;
+}
+
+.final-google-ads .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 88px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 358px;
+}
+
+.final-google-ads .overlap-3 {
+  background-color: #ffffff;
+  border-radius: 53px;
+  box-shadow: 0px 4px 50px #0d19481f;
+  height: 524px;
+  left: 174px;
+  position: absolute;
+  top: 390px;
+  width: 635px;
+}
+
+.final-google-ads .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.final-google-ads .line-instance {
+  left: 105px !important;
+  top: 40px !important;
+}
+
+.final-google-ads .text-wrapper-6 {
+  color: #00000066;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 454px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.final-google-ads .group-2 {
+  height: 20px;
+  left: 424px;
+  position: absolute;
+  top: 42px;
+  width: 22px;
+}
+
+.final-google-ads .overlap-4 {
+  background-color: #00000066;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.final-google-ads .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.final-google-ads .text-wrapper-8 {
+  color: #00000066;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 277px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.final-google-ads .group-3 {
+  height: 20px;
+  left: 247px;
+  position: absolute;
+  top: 42px;
+  width: 22px;
+}
+
+.final-google-ads .text-wrapper-9 {
+  color: #001e43;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 600;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+}
+
+.final-google-ads .overlap-5 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 7px 29px #64646f33;
+  height: 57px;
+  left: 212px;
+  position: absolute;
+  top: 281px;
+  width: 352px;
+}
+
+.final-google-ads .text-wrapper-10 {
+  color: #00000066;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.final-google-ads .overlap-6 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 7px 29px #64646f33;
+  height: 57px;
+  left: 72px;
+  position: absolute;
+  top: 281px;
+  width: 126px;
+}
+
+.final-google-ads .twemoji-flag-india {
+  height: 36px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 36px;
+}
+
+.final-google-ads .text-wrapper-11 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.final-google-ads .solid-instance {
+  left: 93px !important;
+  top: 17px !important;
+}
+
+.final-google-ads .overlap-7 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 7px 29px #64646f33;
+  height: 57px;
+  left: 72px;
+  position: absolute;
+  top: 188px;
+  width: 492px;
+}
+
+.final-google-ads .group-4 {
+  height: 50px;
+  left: 72px;
+  position: absolute;
+  top: 398px;
+  width: 492px;
+}
+
+.final-google-ads .frame-6 {
+  align-items: flex-start;
+  background-color: #001e43;
+  border-radius: 10px;
+  display: inline-flex;
+  gap: 10px;
+  padding: 18px 200px;
+  position: relative;
+}
+
+.final-google-ads .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-google-ads .by-continuing-you {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 467px;
+}
+
+.final-google-ads .span {
+  color: #000000;
+}
+
+.final-google-ads .text-wrapper-13 {
+  color: #001e43;
+  font-weight: 500;
+}
+
+.final-google-ads .googel-ad {
+  background: linear-gradient(180deg, rgb(0, 30, 67) 0%, rgb(87, 1, 105) 100%);
+  border-radius: 105px;
+  height: 1080px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 1337px;
+  width: 1920px;
+}
+
+.final-google-ads .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 55px;
+  font-weight: 700;
+  left: 1145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.final-google-ads .overlap-8 {
+  height: 325px;
+  left: 970px;
+  position: absolute;
+  top: 232px;
+  width: 350px;
+}
+
+.final-google-ads .element-3 {
+  -webkit-backdrop-filter: blur(50px) brightness(100%);
+  backdrop-filter: blur(50px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.03) 0%,
+    rgba(255, 255, 255, 0.03) 100%
+  );
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgba(245, 251, 242, 0.44),
+      rgba(245, 251, 242, 0)
+    )
+    1;
+  border-radius: 40px;
+  height: 280px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 45px;
+  width: 350px;
+}
+
+.final-google-ads .overlap-9 {
+  height: 432px;
+  left: 24px;
+  position: relative;
+  top: -226px;
+  width: 528px;
+}
+
+.final-google-ads .circle-2 {
+  border: 1px solid;
+  border-color: #f7f7f81a;
+  border-radius: 9999px;
+  height: 432px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.final-google-ads .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 288px;
+}
+
+.final-google-ads .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 347px;
+  width: 301px;
+}
+
+.final-google-ads .div-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b3bcc7;
+  border-radius: 26px;
+  height: 90px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}
+
+.final-google-ads .accommodation {
+  height: 48px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 48px;
+}
+
+.final-google-ads .overlap-10 {
+  height: 325px;
+  left: 970px;
+  position: absolute;
+  top: 597px;
+  width: 350px;
+}
+
+.final-google-ads .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 297px;
+}
+
+.final-google-ads .img-2 {
+  height: 48px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 48px;
+}
+
+.final-google-ads .overlap-11 {
+  height: 325px;
+  left: 1360px;
+  position: absolute;
+  top: 597px;
+  width: 350px;
+}
+
+.final-google-ads .overlap-12 {
+  height: 325px;
+  left: 1360px;
+  position: absolute;
+  top: 232px;
+  width: 350px;
+}
+
+.final-google-ads .group-5 {
+  height: 940px;
+  left: 26px;
+  position: absolute;
+  top: 199px;
+  width: 747px;
+}
+
+.final-google-ads .overlap-13 {
+  height: 940px;
+  position: relative;
+}
+
+.final-google-ads .ellipse-5 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(19.13, 19.13, 19.13, 0.6) 0%,
+    rgba(6, 28, 70, 0.6) 100%
+  );
+  border-radius: 282.5px/37.5px;
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 754px;
+  width: 565px;
+}
+
+.final-google-ads .group-6 {
+  background-color: #fbe2dd;
+  border: 2px solid;
+  border-color: #0000004c;
+  border-radius: 60px;
+  height: 940px;
+  left: 142px;
+  position: absolute;
+  top: 0;
+  width: 491px;
+}
+
+.final-google-ads .overlap-group-3 {
+  background-color: #060405;
+  border-radius: 50px;
+  height: 922px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 471px;
+}
+
+.final-google-ads .rectangle-4 {
+  background-color: #ffffff;
+  border-radius: 40px;
+  height: 896px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 439px;
+}
+
+.final-google-ads .group-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9aa3faccada56a994f35e06fcae1a9e0/img/rectangle-255.svg);
+  background-size: 100% 100%;
+  height: 31px;
+  left: 120px;
+  position: absolute;
+  top: 12px;
+  width: 231px;
+}
+
+.final-google-ads .ellipse-wrapper {
+  background-color: #393034;
+  border-radius: 8.34px/7.8px;
+  height: 16px;
+  left: 36px;
+  position: relative;
+  top: 1px;
+  width: 17px;
+}
+
+.final-google-ads .ellipse-6 {
+  background-color: #65ffec33;
+  border-radius: 3.71px/3.47px;
+  height: 7px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 7px;
+}
+
+.final-google-ads .women-png-img {
+  height: 681px;
+  left: 97px;
+  position: absolute;
+  top: 200px;
+  width: 650px;
+}
+
+.final-google-ads .board-logo-high {
+  height: 114px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 250px;
+}
+
+.final-google-ads .overlap-14 {
+  height: 1018px;
+  left: 214px;
+  position: absolute;
+  top: 2512px;
+  width: 1421px;
+}
+
+.final-google-ads .rectangle-5 {
+  height: 1018px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1305px;
+}
+
+.final-google-ads .rectangle-6 {
+  background-color: #031d44;
+  border-radius: 40px;
+  height: 558px;
+  left: 921px;
+  position: absolute;
+  top: 159px;
+  transform: rotate(-25.32deg);
+  width: 400px;
+}
+
+.final-google-ads .rectangle-7 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #17164d;
+  border-radius: 40px;
+  height: 558px;
+  left: 921px;
+  position: absolute;
+  top: 159px;
+  width: 400px;
+}
+
+.final-google-ads .arrowdown-instance {
+  height: 32px !important;
+  left: 337px !important;
+  top: 839px !important;
+  width: 32px !important;
+}
+
+.final-google-ads .number {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 6px;
+  left: 399px;
+  position: absolute;
+  top: 823px;
+}
+
+.final-google-ads .text-wrapper-18 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 56px;
+  font-weight: 400;
+  height: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.final-google-ads .text-wrapper-19 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-google-ads .design-component-instance-node {
+  height: 32px !important;
+  left: 529px !important;
+  top: 839px !important;
+  width: 32px !important;
+}
+
+.final-google-ads .group-7 {
+  height: 76px;
+  left: 194px;
+  position: absolute;
+  top: 189px;
+  width: 284px;
+}
+
+.final-google-ads .text-wrapper-20 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 46px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.final-google-ads .divider {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+  width: 120px;
+}
+
+.final-google-ads .quotes {
+  height: 33px;
+  left: 194px;
+  position: absolute;
+  top: 325px;
+  width: 30px;
+}
+
+.final-google-ads .quotes-2 {
+  height: 33px;
+  left: 511px;
+  position: absolute;
+  top: 564px;
+  width: 30px;
+}
+
+.final-google-ads .text-wrapper-21 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 355px;
+  width: 580px;
+  text-align: initial;
+}
+
+.final-google-ads .image {
+  height: 558px;
+  left: 921px;
+  object-fit: cover;
+  position: absolute;
+  top: 159px;
+  width: 400px;
+}
+
+.final-google-ads .group-8 {
+  height: 30px;
+  left: 194px;
+  position: absolute;
+  top: 657px;
+  width: 190px;
+}
+
+.final-google-ads .star {
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.final-google-ads .star-2 {
+  height: 27px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.final-google-ads .star-3 {
+  height: 27px;
+  left: 81px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.final-google-ads .star-4 {
+  height: 27px;
+  left: 121px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.final-google-ads .star-5 {
+  height: 27px;
+  left: 161px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.final-google-ads .overlap-15 {
+  background-color: #fffffe;
+  border-radius: 30px 0px 0px 30px;
+  box-shadow: 0px 5px 15px #00000059;
+  height: 900px;
+  left: 106px;
+  position: absolute;
+  top: 3883px;
+  width: 1708px;
+}
+
+.final-google-ads .overlap-16 {
+  height: 900px;
+  left: 1160px;
+  position: absolute;
+  top: 0;
+  width: 548px;
+}
+
+.final-google-ads .rectangle-8 {
+  background-color: #0064e1;
+  height: 900px;
+  left: 248px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.final-google-ads .vector-wrapper {
+  background-color: #1a74e4;
+  border-radius: 15px;
+  height: 30px;
+  left: 282px;
+  position: absolute;
+  top: 798px;
+  width: 30px;
+}
+
+.final-google-ads .vector {
+  height: 12px;
+  left: 8px;
+  position: absolute;
+  top: 9px;
+  width: 15px;
+}
+
+.final-google-ads .img-wrapper {
+  background-color: #ffffff;
+  border-radius: 15px;
+  height: 30px;
+  left: 383px;
+  position: absolute;
+  top: 798px;
+  width: 30px;
+}
+
+.final-google-ads .vector-2 {
+  height: 15px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.final-google-ads .group-9 {
+  background-color: #1a74e4;
+  border-radius: 15px;
+  height: 30px;
+  left: 484px;
+  position: absolute;
+  top: 798px;
+  width: 30px;
+}
+
+.final-google-ads .rectangle-9 {
+  background-color: #001e43;
+  border-radius: 30px 0px 0px 30px;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 204px;
+  width: 548px;
+}
+
+.final-google-ads .bxs-phone-call {
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 392px;
+  width: 30px;
+}
+
+.final-google-ads .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 393px;
+  white-space: nowrap;
+}
+
+.final-google-ads .ic-sharp-email {
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 466px;
+  width: 30px;
+}
+
+.final-google-ads .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 467px;
+  white-space: nowrap;
+}
+
+.final-google-ads .carbon-location {
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 557px;
+  width: 30px;
+}
+
+.final-google-ads .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 525px;
+  width: 290px;
+  text-align: initial;
+}
+
+.final-google-ads .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 301px;
+}
+
+.final-google-ads .h-1 {
+  color: #0d0d0d;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 145px;
+}
+
+.final-google-ads .text-wrapper-26 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 199px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 242px;
+  white-space: nowrap;
+  width: 504px;
+}
+
+.final-google-ads .vector-3 {
+  height: 1px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 482px;
+  width: 400px;
+}
+
+.final-google-ads .text-wrapper-27 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 426px;
+  white-space: nowrap;
+}
+
+.final-google-ads .text-wrapper-28 {
+  color: #8d8d8d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 453px;
+  white-space: nowrap;
+}
+
+.final-google-ads .vector-4 {
+  height: 1px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 400px;
+}
+
+.final-google-ads .text-wrapper-29 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 329px;
+  white-space: nowrap;
+}
+
+.final-google-ads .text-wrapper-30 {
+  color: #8d8d8d;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 353px;
+  white-space: nowrap;
+}
+
+.final-google-ads .vector-5 {
+  height: 1px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 624px;
+  width: 400px;
+}
+
+.final-google-ads .text-wrapper-31 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 523px;
+  white-space: nowrap;
+}
+
+.final-google-ads .text-wrapper-32 {
+  color: #8d8d8d;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 548px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.final-google-ads .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 347px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 718px;
+  white-space: nowrap;
+}
+
+.final-google-ads .overlap-17 {
+  height: 24px;
+  left: 577px;
+  position: absolute;
+  top: 599px;
+  width: 22px;
+}
+
+.final-google-ads .line-2 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.final-google-ads .line-3 {
+  height: 16px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.final-google-ads .text-wrapper-34 {
+  color: #0d1948;
+  font-family: "Inter", Helvetica;
+  font-size: 55px;
+  font-weight: 600;
+  left: 686px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3637px;
+}
+
+.final-google-ads .text-wrapper-35 {
+  color: #00000099;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 381px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3743px;
+}
+
+.final-google-ads .line-4 {
+  height: 5px;
+  left: 835px;
+  position: absolute;
+  top: 3760px;
+  width: 250px;
+}
+
+.arrowdown {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.line {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
